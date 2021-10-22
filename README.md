@@ -38,3 +38,5 @@
 </div>
 
   ##
+   ![Snake animation](https://github.com/rafaballerini/laysanha/blob/output/github-contribution-grid-snake.svg)
+  ##
