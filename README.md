@@ -22,7 +22,8 @@
   <img align="center" alt="Laysa-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Laysa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Laysa-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Laysa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/776867984253779990/901095436742447135/f8045be3a6110a0d0456feb4e4e6ee7c.webp?width=520&height=390">
+  <img align="right" alt="Laysa-pic" height="150" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/776867984253779990/901095436742447135/f8045be3a6110a0d0456feb4e4e6ee7c.webp?width=520&height=390">
+   <img align="right" alt="Laysa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/0149fece13301c9884809fc338e1ca7c.gif">
 </div>
   
   ##
