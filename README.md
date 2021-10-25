@@ -28,10 +28,6 @@
 <h2>:octocat: My GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/?username=laysanha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=laysanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-
    
 ##
  <h2>:octocat: Social media</h2>
