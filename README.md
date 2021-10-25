@@ -21,8 +21,8 @@
 </div  
 
  <br><br>
-
-| <a href="https://github.com/Laysanha/Laysanha/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laysanha&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysanha&layout=compact&theme=dracula&hide_border=true" /></a> |
+  
+|<a href="https://github.com/Laysanha/Laysanha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laysanha&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |  
 
 ##
