@@ -5,21 +5,27 @@
 - 📫 How to reach me:  laysatb@gmail.com
 - 😄 Pronouns: Ela /dela
 
+
+**Languages i know**
+
 ##
 
-<div align="center">
-  <a href="https://github.com/Laysanha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=laysanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div style="display: inline_block">
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>    
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+</div  
+
+ <br><br>
  
+<a href="https://github.com/Laysanha/Laysanha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laysanha&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&theme=dracula&hide_border=true" /></a> 
+
 ##
-  
-<div style="display: inline_block"><br>
- 
-</div>
-  
-  ##
   
  <div>
    <br><br>
@@ -29,14 +35,3 @@
     <a href="https://www.linkedin.com/in/laysa-santiago-alfredo-592b79191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/laysa-santiago-alfredo-592b79191" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-<div style="display: inline_block">
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>    
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-</div
