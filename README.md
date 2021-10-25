@@ -1,5 +1,5 @@
 
-<br><p align="center"><a href="https://anuraghazra.github.io"><img width="40%" src="https://cdn.discordapp.com/attachments/778305587867549766/902184937418002432/unknown.png" /></a></p><br>
+<br><p align="center"><img width="40%" src="https://cdn.discordapp.com/attachments/778305587867549766/902184937418002432/unknown.png" /></p><br>
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:  laysatb@gmail.com
