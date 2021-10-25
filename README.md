@@ -7,6 +7,8 @@
 - 📫 How to reach me:  laysatb@gmail.com
 - 😄 Pronouns: Ela /dela
 
+##
+
 <div style="display: inline_block">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -16,6 +18,8 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">   
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div> 
+
+##
 
 <h2>:octocat: My GitHub Stats</h2>
  
