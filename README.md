@@ -8,6 +8,7 @@
 - 😄 Pronouns: Ela /dela
 
 ##
+<img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="400" />
 
 <div style="display: inline_block">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -21,7 +22,9 @@
 
 ##
 
-<h2>:octocat: My GitHub Stats</h2>
+<h2>🎉 Fun Facts</h2>
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
  
 |<a href="https://github.com/Laysanha/Laysanha"><img height="170em" src="https://github-readme-stats.vercel.app/api/?username=laysanha&show_icons=true&theme=dracula" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&langs_count=7&theme=dracula"/> | 
 | ------------- | ------------- |  
