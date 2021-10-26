@@ -10,7 +10,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <li>💻 I started my studies so I decided to start adding them to github to see my evolution and publish some projects that I can be proud of in the future</li>
 <li>✨ My interest is to start studying information security and one day be able to work with it</li>
-<li>🎮 Eu jogo como hobby e meus favoritos são The Last Of Us 1 e 2, Dead By DayLight e Apex</li>
+<li>🎮 I play as a hobby and my favorites are The Last Of Us 1 and 2, Dead By DayLight and Apex</li>
 <Li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading them.</li>
  
 |<a href="https://github.com/Laysanha/Laysanha"><img height="170em" src="https://github-readme-stats.vercel.app/api/?username=laysanha&show_icons=true&theme=dracula" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&langs_count=7&theme=dracula"/> | 
