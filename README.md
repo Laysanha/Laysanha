@@ -19,6 +19,7 @@
 <li>✨ My interest is to start studying information security and one day be able to work with it</li>
 <li>🎮 I play as a hobby and my favorites are The Last Of Us 1 and 2, Dead By DayLight and Apex</li>
 <Li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading them.</li>
+<li>☕ Currently studying java</li>
  
 <h2>:octocat: My GitHub Stats</h2>
 
