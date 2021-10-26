@@ -26,6 +26,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 |<a href="https://github.com/Laysanha/Laysanha"><img height="170em" src="https://github-readme-stats.vercel.app/api/?username=laysanha&show_icons=true&theme=dracula" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&langs_count=7&theme=dracula"/> | 
 | ------------- | ------------- |  
 
+ 
+<h2📚 Languages</h2>
  ##
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
