@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
 </p>
 
-<img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="400"/>
+<img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="380" height="360"/>
 
 <h2>🎉 Fun Facts</h2>
 
