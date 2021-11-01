@@ -18,15 +18,15 @@
 <li>💻 I started my studies so I decided to start adding them to github to see my evolution and publish some projects that I can be proud of in the future</li>
 <li>✨ My interest is to start studying information security and one day be able to work with it</li>
 <li>🎮 I play as a hobby and my favorites are The Last Of Us 1 and 2, Dead By DayLight and Apex</li>
-<Li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading them.</li>
+<li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading them.</li>
+<li>🌎 My round the world, contacts :) <a href="https://linktr.ee/Laysanha">linktr.ee </a></li>
 <li>☕ Currently studying java</li>
  
 <h2>:octocat: My GitHub Stats</h2>
 
 |<a href="https://github.com/Laysanha/Laysanha"><img height="170em" src="https://github-readme-stats.vercel.app/api/?username=laysanha&show_icons=true&theme=dracula" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysanha&layout=compact&langs_count=7&theme=dracula"/> | 
 | ------------- | ------------- |  
-
- 
+  
 <h2>📚 Languages</h2>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
