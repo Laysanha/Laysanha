@@ -1,17 +1,14 @@
 <br><p align="center"><img width="40%" src="https://cdn.discordapp.com/attachments/778305587867549766/902184937418002432/unknown.png" /></p><br>
 <img align="center" src="https://media.discordapp.net/attachments/900003618625826816/907394573171572757/840ac1a5eef2c7abcaca3e4757db48e9.gif"  width="100%" height="360"/>
-
+##
 <p>
 <div style="display: inline_block">
   <a href = "https://www.instagram.com/lay_santiagoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/laysa-santiago-alfredo-592b79191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
 </p>
 
-<img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="380" height="360"/>
+<img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="360" height="360"/>
 
 <h2>🎉 Fun Facts</h2>
 
