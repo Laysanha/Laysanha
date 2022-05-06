@@ -13,7 +13,7 @@
 <h2>🎉 Fun Facts</h2>
 
 <li>💻 I started my studies so I decided to start adding them to github to see my evolution and publish some projects that I can be proud of in the future</li>
-<li>✨ My interest is to start studying information security and one day be able to work with it</li>
+<li>✨ My goals are to study UX/UI, front-end and full-stack and one day be able to work with it programming</li>
 <li>🎮 I play as a hobby and my favorites are The Last Of Us 1 and 2, Dead By DayLight and Apex</li>
 <li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading.</li>
 <li>🌎 My round the world, contacts :) <a href="https://linktr.ee/Laysanha">me here<img src="https://media.discordapp.net/attachments/778305587867549766/904744935532691536/7346b4369640391a32c41a0a63168469864206c0_hq.gif?width=473&height=473" width="50" height="50"/></a></li>
