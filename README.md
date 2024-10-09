@@ -17,7 +17,7 @@
 <li>🎮 I play as a hobby and my favorites are The Last Of Us 1 and 2, Dead By DayLight and Apex</li>
 <li>✍️ I'm addicted to reading Web Toons on the internet and I've spent many hours reading.</li>
 <li>🌎 My round the world, contacts :) <a href="https://linktr.ee/Laysanha">me here<img src="https://media.discordapp.net/attachments/778305587867549766/904744935532691536/7346b4369640391a32c41a0a63168469864206c0_hq.gif?width=473&height=473" width="50" height="50"/></a></li>
-<li>☕ Currently studying java</li>
+<li>☕ Currently studying Flutter and Desing</li>
  
 <h2>:octocat: My GitHub Stats</h2>
 
