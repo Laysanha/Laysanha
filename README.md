@@ -3,8 +3,7 @@
 <p>
 <div style="display: inline_block">
   <a href = "https://www.instagram.com/lay_santiagoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/laysa-santiago-alfredo-592b79191/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href = "https://open.spotify.com/playlist/06ScN5XDej4LatKmVLgsx4"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"> </a>
+  <a href = "https://www.linkedin.com/in/laysa-santiago-alfredo-592b79191/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </p>
 
 <img align="right" src="https://cdn.discordapp.com/attachments/900003618625826816/902341042852995072/5b33cd7dad902043f5feb9eb606bd72f.gif" width="360" height="360"/>
